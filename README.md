@@ -5,7 +5,6 @@ Sistema de gerênciamento de suinos. Desenvolvido como trabalho acadêmico na ma
 ## Tecnologias
 
   * JavaFX
-  * [JFoenix](https://github.com/jfoenixadmin/JFoenix)
   * Postgres
 
 ## Autores
