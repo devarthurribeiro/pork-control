@@ -1,0 +1,22 @@
+.input {
+    -fx-background-radius: 16.4, 15;
+}
+
+.btn {
+    -fx-text-fill: #fff;
+    -fx-background-radius: 16.4, 15;
+    -fx-font-weight: bold;
+    -fx-padding: 6px;
+}
+
+.btn-success {
+    -fx-background-color: green;
+}
+
+.btn-info {
+    -fx-background-color: blue;
+}
+
+.btn-danger {
+    -fx-background-color: red;
+}
